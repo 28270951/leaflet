@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="leaflet"
+  id="myeclipse.1457751671406"
+  context-root="/leaflet"
+  j2ee-spec="5.0"
+  archive="leaflet.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
